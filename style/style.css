@@ -1,0 +1,9 @@
+section, h2, div, p {
+  border: 1px solid black;
+  padding: 0px;
+  margin: 0px;
+}
+
+.container{
+  width: 100px;
+}
